@@ -111,12 +111,12 @@ After cloning the repo and installing the required npm packages, use the command
 
 ## Screenshot
 ![Application Preview](./public/assets/images/screenshot.png)
-![Application Preview](./public/assets/images/Screenshot1.png)
+![Application Preview](./public/assets/images/screenshot1.png)
 </br>
 </br>
 
 ## Deployment
-View the deployed page at [11-Express.js-Challenge](https://jorgeebn16-notetaker.herokuapp.com/)
+View the deployed page at [Heroku](https://jorgeebn16-notetaker.herokuapp.com/)
 </br>
 </br>
 
