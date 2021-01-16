@@ -110,8 +110,8 @@ After cloning the repo and installing the required npm packages, use the command
 <br/>
 
 ## Screenshot
-![Application Preview](./public/assets/images/screenshot.png)
-![Application Preview](./public/assets/images/screenshot1.png)
+![Application Preview](./screenshot.png)
+![Application Preview](./screenshot1.png)
 </br>
 </br>
 
